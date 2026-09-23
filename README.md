@@ -1,18 +1,48 @@
-## Joseph — Freelance web developer
+## Joseph — Freelance Web Developer
 
-Weby pro malé podniky (kavárny, salony, řemeslníci) — čisté, rychlé, 
-premium design bez zbytečných nákladů.
+Tvořím moderní, rychlé weby pro malé podniky — kavárny, salony, 
+řemeslníky a další lokální byznysy. Bez zbytečné šablonovosti, 
+s důrazem na detail a plynulý pohyb.
 
-## Ukázky
-- [Portfolio](odkaz)
-- [Kavárna](odkaz)
-- [Barber shop](odkaz)
-- [Čajovna](odkaz)
-- [Kosmetický salon](odkaz)
+## O mně
+
+Weby nestavím podle šablony — každý design vychází z toho, co 
+daný podnik odlišuje od konkurence. Zajímá mě typografie, jemné 
+animace a čistý, promyšlený layout, ne "hotové řešení za pět minut".
+
+## Ukázky prací
+
+| Projekt | Typ podniku | Odkaz |
+|---|---|---|
+| Portfolio | — | [zobrazit](odkaz) |
+| Kavárna | Specialty coffee | [zobrazit](odkaz) |
+| Barber shop | Pánské kadeřnictví | [zobrazit](odkaz) |
+| Čajovna | Čajovna | [zobrazit](odkaz) |
+| Kosmetický salon | Wellness & beauty | [zobrazit](odkaz) |
+
+## Co nabízím
+
+- Design na míru — žádné univerzální šablony
+- Plně responzivní weby, rychlé načítání
+- Jemné animace a interaktivní detaily
+- Předání webu pod vaší vlastní doménou a hostingem
 
 ## Kontakt
-Email: senkijosef07@gmail.com
-Telefon: ...
+
+- **Napsat zprávu:** [kontaktní formulář](odkaz)
+- **LinkedIn:** [profil](odkaz)
+- **Lokalita:** Praha, Česká republika
+
+---
+
+*Máte podnik, který by si zasloužil lepší web? Napište mi.*
+
+
+
+
+
+
+
 
 <!--
 **Cmoudin/Cmoudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

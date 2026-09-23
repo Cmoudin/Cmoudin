@@ -1,16 +1,16 @@
-## Joseph — Freelance Web Developer
+# Joseph Senki
 
-Tvořím moderní, rychlé weby pro malé podniky — kavárny, salony, 
-řemeslníky a další lokální byznysy. Bez zbytečné šablonovosti, 
-s důrazem na detail a plynulý pohyb.
+## Who am I?
 
-## O mně
+Freelance web developer se sídlem v Praze. Tvořím weby pro malé 
+podniky — kavárny, salony, řemeslníky a další lokální byznysy, 
+kterým chybí online prezentace odpovídající kvalitě jejich práce.
 
-Weby nestavím podle šablony — každý design vychází z toho, co 
-daný podnik odlišuje od konkurence. Zajímá mě typografie, jemné 
-animace a čistý, promyšlený layout, ne "hotové řešení za pět minut".
+## What am I working on?
 
-## Ukázky prací
+Aktuálně stavím ukázkové weby pro různé typy podniků, aby si 
+potenciální klienti mohli prohlédnout, jak by mohl vypadat jejich 
+vlastní web ještě předtím, než si mě najmou.
 
 | Projekt | Typ podniku | Odkaz |
 |---|---|---|
@@ -20,22 +20,17 @@ animace a čistý, promyšlený layout, ne "hotové řešení za pět minut".
 | Čajovna | Čajovna | [zobrazit](odkaz) |
 | Kosmetický salon | Wellness & beauty | [zobrazit](odkaz) |
 
-## Co nabízím
+## What tools do I use?
 
-- Design na míru — žádné univerzální šablony
-- Plně responzivní weby, rychlé načítání
-- Jemné animace a interaktivní detaily
-- Předání webu pod vaší vlastní doménou a hostingem
+- HTML, CSS, JavaScript
+- Lovable.dev, Claude — rychlé prototypování a nasazení
+- GSAP — scroll animace a interaktivní detaily
+- GitHub, Netlify — hosting a nasazení
 
-## Kontakt
+## How to reach me?
 
-- **Napsat zprávu:** [kontaktní formulář](odkaz)
-- **LinkedIn:** [profil](odkaz)
-- **Lokalita:** Praha, Česká republika
-
----
-
-*Máte podnik, který by si zasloužil lepší web? Napište mi.*
+- [Kontaktní formulář](odkaz)
+- [LinkedIn](odkaz)
 
 
 
